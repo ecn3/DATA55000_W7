@@ -1,0 +1,4 @@
+Write a report (minimum 2 pages) (using the template) detailing the results of your programming projects from weeks 6 and 7. You will speak as a consultant, telling me how you cleaned the dataset, the models that you used, and how well your model worked.
+
+
+https://www.kaggle.com/ashwinik/consumer-complaints-financial-products
